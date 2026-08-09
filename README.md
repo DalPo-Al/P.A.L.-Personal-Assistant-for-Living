@@ -1,6 +1,6 @@
 # P.A.L. — Personal Assistant for Living
 
-A local-first AI assistant with hybrid RAG + temporal graph memory, a complexity-aware tool-calling agent, and optional live camera perception. P.A.L. remembers who you are across sessions, decides on its own how much reasoning a request deserves, and can act on the web when a simple answer isn't enough.
+A local-first AI assistant with hybrid RAG + temporal graph memory, a complexity-aware tool-calling agent, and optional live camera perception. P.A.L. remembers who you are across sessions, decides on its own how much reasoning a request deserves, and can act on the web when a simple answer isn't enough. Cloud and Free llm model call using OLLAMA API and Embedding of informations using GOOGLE API.
 
 ```
                             User Input
