@@ -130,4 +130,4 @@ On startup, P.A.L. verifies environment variables, ensures ArcadeDB is running (
 
 ## License
 
-Add a license of your choice (e.g. MIT) before publishing.
+MIT
